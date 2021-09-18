@@ -1,2 +1,2 @@
 # iduaisociety.github.io
-- IDU AI Society Main Page -
+- IDU AI Society Main Page 
